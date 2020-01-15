@@ -1,7 +1,7 @@
 "use strict"
 
 alert('1223454321');
-
+var dd;
 // class Car {
 //     constructor(speed) {
 //         this.speed = speed;
